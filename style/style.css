@@ -45,7 +45,7 @@ nav ul li {
 /* Hero style */
 
 .hero-container {
-  background-image: url(/images/shapes.png);
+  background-image: url(./images/shapes.png);
   height: 701px;
   width: 1400px;
   background-size: cover;
@@ -179,7 +179,7 @@ nav ul li {
 }
 .join-member{
   
-  background-image: url(/images/11.png);
+  background-image: url(./images/11.png);
   height: 250px;
   width: 1000px;
   background-size: cover;
@@ -226,7 +226,7 @@ nav ul li {
   display: flex;
   justify-content: space-between; */
 
-  background-image: url(/images/12.png);
+  background-image: url(./images/12.png);
   height: 250px;
   width: 1250px;
   background-size: cover;
